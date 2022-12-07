@@ -106,7 +106,7 @@ You can use the UART pins on the 26-pin header to communicate with the MCU.
 
 1. Enable the UART5 interface.
 
-    Add the follow line to the end of the file `/boot/orangepiEnv.txt`:
+    Add the following line to the end of the file `/boot/orangepiEnv.txt`:
 
     ```txt
     overlays=uart5
@@ -120,7 +120,7 @@ You can use the UART pins on the 26-pin header to communicate with the MCU.
 1. Follow the instructions on [klipper's document](https://www.klipper3d.org/RPi_microcontroller.html) to flash the klipper_mcu.
 
 2. Enabling SPI (Optional):
-   Add the follow lines to the end of the file `/boot/orangepiEnv.txt`:
+   Add the following lines to the end of the file `/boot/orangepiEnv.txt`:
 
    ```txt
    overlays=spi-spidev
@@ -129,7 +129,7 @@ You can use the UART pins on the 26-pin header to communicate with the MCU.
    ```
 
 3. Enabling I2C (Optional):
-   Add the follow line to the end of the file `/boot/orangepiEnv.txt`:
+   Add the following line to the end of the file `/boot/orangepiEnv.txt`:
 
    ```txt
    overlays=i2c3
