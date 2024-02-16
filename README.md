@@ -90,7 +90,7 @@ There are two ways to do the installation:
 
 2. Manual install.
 
-   There is a good guide on [Mainsail's document](https://docs.mainsail.xyz/setup/manual-setup).
+   There is a good guide on [Mainsail's document](https://docs.mainsail.xyz/setup/getting-started/manual-setup).
 
 ## Setup klipper
 
